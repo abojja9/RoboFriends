@@ -2,6 +2,8 @@
 # RoboFriends
 A React Project that can read contents from an API and display the items on the Webpage. The page also has an option to search the items.
 
+<ins>Technology Stack:</ins> React.js, Java Script, HTML, CSS
+
 # Getting Started with this project
 
 ## Available Scripts
